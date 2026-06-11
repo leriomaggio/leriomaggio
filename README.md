@@ -160,3 +160,4 @@ Speaking and teaching are how I give back to the community — and honestly, how
 <sub>This README lives in <a href="https://github.com/leriomaggio/leriomaggio">leriomaggio/leriomaggio</a> — the snake is regenerated daily by GitHub Actions 🐍</sub>
 
 </div>
+
