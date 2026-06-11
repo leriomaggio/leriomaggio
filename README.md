@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Valerio%20Maggio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=160&section=header&text=Valerio%20Maggio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Valerio%20Maggio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="" />
+</picture>
 
 <div align="center">
 <!-- ============ ANIMATED TYPING HEADER ============ -->
@@ -143,8 +146,14 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&icon_color=FFD43B&include_all_commits=true&count_private=true&hide=contribs" alt="Valerio's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&hide_border=true&bg_color=30,0F172A,4C1D95&title_color=ffffff&text_color=E2E8F0&icon_color=FFD43B&include_all_commits=true&count_private=true&hide=contribs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&icon_color=FFD43B&include_all_commits=true&count_private=true&hide=contribs" alt="Valerio's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&hide_border=true&bg_color=30,0F172A,4C1D95&title_color=ffffff&text_color=E2E8F0&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top languages" />
+</picture>
 
 <!-- ============ CONTRIBUTION SNAKE ============ -->
 <picture>
@@ -164,5 +173,8 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="" />
+</picture>
 
