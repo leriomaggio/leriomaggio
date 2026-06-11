@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Valerio%20Maggio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="" />
+
 <div align="center">
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="https://github.com/leriomaggio">
@@ -18,7 +20,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4" width="100%" alt="" />
 
 ## 🧙 About Me
 
@@ -31,7 +33,7 @@ I'm a *machine learning engineer and developer advocate* — PhD in Computationa
 - 🎄 Every December I disappear into [Advent of Code](https://github.com/leriomaggio/AoC) — Python, of course
 - 🃏 *Magic: The Gathering* player — Premodern is my format (`@lotus_vale` on Discord). I'm the tech guy behind [Chaos Orcs Fest](https://chaos-orcs.wtf) and [Bristol Premodern](https://bristolpremodern.co.uk) — both Django + PyScript (the deck-submission flow runs Python in the browser 🤯) — and I contribute to [Forge](https://github.com/Card-Forge/forge), the open-source rules engine for MTG
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4" width="100%" alt="" />
 
 ## 🛠️ Toolbox
 
@@ -76,7 +78,7 @@ I'm a *machine learning engineer and developer advocate* — PhD in Computationa
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4" width="100%" alt="" />
 
 ## 📣 Community & Speaking
 
@@ -86,7 +88,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 - 🎓 Lecturer: University of Bristol, FBK Academy, WebValley Summer School · Carpentries certified instructor
 - 🏅 Software Sustainability Institute Fellow (privacy-enhancing technologies for ML)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4" width="100%" alt="" />
 
 ## 🚀 What I've Built
 
@@ -135,14 +137,14 @@ Speaking and teaching are how I give back to the community — and honestly, how
 **Upstream contributions** — documentation, tutorials, testing across the ML ecosystem:
 `pytorch/pytorch` · `scikit-learn/scikit-learn` · `keras-team/keras` · `lmcinnes/umap` (main docs/testing contributor) · `pyscript/pyscript` (since launch) · `OpenMined/PySyft` · `Project-MONAI`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4" width="100%" alt="" />
 
 ## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&theme=default&hide_border=true&title_color=3182ce&icon_color=3182ce&include_all_commits=true&count_private=true&hide=contribs" alt="Valerio's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&theme=default&hide_border=true&title_color=3182ce&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&icon_color=FFD43B&include_all_commits=true&count_private=true&hide=contribs" alt="Valerio's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top languages" />
 
 <!-- ============ CONTRIBUTION SNAKE ============ -->
 <picture>
@@ -152,7 +154,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4" width="100%" alt="" />
 
 <div align="center">
 
@@ -161,4 +163,6 @@ Speaking and teaching are how I give back to the community — and honestly, how
 <sub>This README lives in <a href="https://github.com/leriomaggio/leriomaggio">leriomaggio/leriomaggio</a> — the snake is regenerated daily by GitHub Actions 🐍</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="" />
 
