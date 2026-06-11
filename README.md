@@ -2,16 +2,16 @@
 
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="https://github.com/leriomaggio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3182CE&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Valerio+%F0%9F%A7%99;ML%2FAI+Specialist+%C2%B7+Developer+Advocate;16%2B+years+of+Python+%C2%B7+PhD+Computational+Science;I+build+the+things+developers+learn+from;50%2B+talks+%C2%B7+PyCon+%C2%B7+EuroPython+%C2%B7+SciPy+%C2%B7+PyData" alt="Typing intro: Valerio Maggio — ML/AI Specialist and Developer Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3182CE&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Valerio+%F0%9F%A7%99;Data+Science+%C2%B7+Machine+Learning+%C2%B7+Developer+Education;Pythonista+since+2009+%C2%B7+PhD+Computational+Science;I+build+the+things+developers+learn+from" alt="Typing intro: Valerio Maggio — Data Science, Machine Learning, Developer Education" />
 </a>
 
-<h3>Machine Learning · Privacy-Preserving AI · Developer Education · Open Source</h3>
+<h3>Data Science & Machine Learning · Developer Education · Open Source</h3>
 
 <!-- ============ CONTACT / SOCIAL BADGES ============ -->
 <p>
   <a href="https://linkedin.com/in/valeriomaggio"><img src="https://img.shields.io/badge/LinkedIn-valeriomaggio-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://speakerdeck.com/leriomaggio"><img src="https://img.shields.io/badge/Speaker_Deck-50%2B_talks-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
-  <a href="https://orcid.org/0000-0003-4824-893X"><img src="https://img.shields.io/badge/ORCID-27_publications-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://speakerdeck.com/leriomaggio"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
+  <a href="https://orcid.org/0000-0003-4824-893X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="mailto:valerio.maggio@gmail.com"><img src="https://img.shields.io/badge/Email-valerio.maggio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -23,32 +23,14 @@
 
 ## 🧙 About Me
 
-I'm a **Machine Learning engineer and Developer Advocate** with a PhD in Computational Science and **16+ years in the Python & open-source ecosystem**. I sit at the intersection of two crafts: building rigorous ML/AI systems, and teaching developers how to use them.
+I'm a *machine learning engineer and developer advocate* — PhD in Computational Science, Pythonista since **2009**. I like living at the intersection of two crafts: building data & ML systems, and teaching developers how they actually work.
 
-- 🔬 **ML & Research**: deep learning for precision medicine & digital pathology, federated learning, NLP for mental health, spatio-temporal forecasting — published in *Nature Scientific Data*, *PLOS Computational Biology*, *BMC Bioinformatics*
-- 📣 **Developer Relations**: led community & education at **OpenMined** (15,000+ member community) and **Anaconda** (Senior Technical Advocate) — demos, tutorials, docs, video content, workshops
-- 🛡️ **Specialty**: privacy-preserving machine learning (federated learning, differential privacy) and local, self-hosted AI
-- 🎤 **50+ talks** at PyCon US/DE/IT, EuroPython, SciPy, EuroSciPy, PyData — reaching 10,000+ developers annually
-- 🐍 Active in the Python community **since 2008**: conference organisation, governance, and 15+ educational open-source repositories
-
-> 💼 **Currently open to**: Developer Relations / Developer Advocacy and Senior DS/ML Engineering roles.
-
----
-
-## 🚀 What I've Built & Shipped
-
-| Project | What it is | Impact |
-|---|---|---|
-| [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) | Intro to Deep Neural Networks with Keras & TensorFlow | ⭐ **3k stars** · 1.3k forks · among the first Keras tutorials ever (EuroSciPy 2016) |
-| [ppml-tutorial](https://github.com/leriomaggio/ppml-tutorial) | Privacy-Preserving Machine Learning tutorial | Presented at SciPy, PyConDE, Mozilla Festival, EuroSciPy |
-| [privacy-preserving-data-science](https://github.com/leriomaggio/privacy-preserving-data-science) | Course on Privacy-Enhancing Technologies & PPML | SSI Fellowship output · taught at international venues |
-| [syft-heart-disease-tutorial](https://github.com/OpenMined/syft-heart-disease-tutorial) | End-to-end federated learning sample app (PySyft/SyftBox) | Primary onboarding resource for OpenMined developers |
-| [pytorch-beautiful-ml-data](https://github.com/leriomaggio/pytorch-beautiful-ml-data) | Data patterns & OOP abstractions for PyTorch | PyData Global tutorial |
-| [notexbook-jupyter-theme](https://github.com/leriomaggio/notexbook-jupyter-theme) | Jupyter theme for LaTeX lovers | For the typographically obsessed 🤓 |
-| [CovidResponseMap](https://github.com/DynamicGenetics/COVID-19-Community-Response) | Interactive community-support mapping tool | Adopted by **Public Health Wales** during the pandemic |
-
-**Upstream contributions** — documentation, tutorials, testing across the ML ecosystem:
-`pytorch/pytorch` · `scikit-learn/scikit-learn` · `keras-team/keras` · `lmcinnes/umap` (main docs/testing contributor) · `pyscript/pyscript` (since launch) · `OpenMined/PySyft` · `Project-MONAI`
+- 🔬 *Data Science & Machine Learning* — deep learning for biomedicine and digital pathology, NLP, spatio-temporal forecasting. My favourite corner of ML is *privacy-preserving machine learning*: federated learning, differential privacy, and local / self-hosted AI
+- 📣 *Developer education* — tutorials, workshops, docs, demos, talks. Explaining hard things clearly is a skill I practise as deliberately as writing code
+- 🐍 Active in the Python community since 2009 — conferences, education, and a lot of open source
+- 🧪 The organisations on my profile are where the fun happens: research labs, summer schools, and community projects I build with ([MPBA](https://github.com/MPBA), [DynamicGenetics](https://github.com/DynamicGenetics), [webvalley](https://github.com/webvalley), [kubeflow-kale](https://github.com/kubeflow-kale), and friends)
+- 🎄 Every December I disappear into [Advent of Code](https://github.com/leriomaggio/AoC) — Python, of course
+- 🃏 *Magic: The Gathering* player — Premodern is my format (`@lotus_vale` on Discord). I'm the tech guy behind [Chaos Orcs Fest](https://chaos-orcs.wtf) and [Bristol Premodern](https://bristolpremodern.co.uk) — both Django + PyScript (the deck-submission flow runs Python in the browser 🤯) — and I contribute to [Forge](https://github.com/Card-Forge/forge), the open-source rules engine for MTG
 
 ---
 
@@ -99,11 +81,39 @@ I'm a **Machine Learning engineer and Developer Advocate** with a PhD in Computa
 
 ## 📣 Community & Speaking
 
-- 🎤 **50+ technical talks** at 15+ major conferences — [full portfolio with slides on Speaker Deck](https://speakerdeck.com/leriomaggio)
-- 🧑‍🏫 **20+ hands-on workshops** (300+ participants/year) on Python, deep learning & ML best practices
-- 🔁 Created **#30DaysOfFLCode** at OpenMined: daily challenges that onboarded 500+ developers to federated learning
-- 🎓 Lecturer: University of Bristol, FBK Academy, WebValley Summer School (2016–2022) · Carpentries certified instructor
-- 🏅 **Software Sustainability Institute Fellow** (privacy-enhancing technologies for ML)
+Speaking and teaching are how I give back to the community — and honestly, how I learn best. I've been on stage at *PyCon US / DE / IT, EuroPython, SciPy, EuroSciPy, PyData* and more, talking about Python, machine learning, and privacy-preserving AI. All the slides live on [Speaker Deck](https://speakerdeck.com/leriomaggio).
+
+- 🧑‍🏫 Hands-on workshops on Python, deep learning & ML best practices — the messy, live-coding kind
+- 🎓 Lecturer: University of Bristol, FBK Academy, WebValley Summer School · Carpentries certified instructor
+- 🏅 Software Sustainability Institute Fellow (privacy-enhancing technologies for ML)
+
+---
+
+## 🚀 What I've Built
+
+### 🧠 Deep Learning & ML education
+
+- [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) — intro to deep neural networks with Keras & TensorFlow. One of the first Keras tutorials ever (EuroSciPy 2016) · ⭐ 3k
+- [pytorch-beautiful-ml-data](https://github.com/leriomaggio/pytorch-beautiful-ml-data) — data patterns & OOP abstractions for PyTorch (PyData Global tutorial)
+
+### 🛡️ Privacy-Preserving ML
+
+- [ppml-tutorial](https://github.com/leriomaggio/ppml-tutorial) — hands-on privacy-preserving machine learning (SciPy, PyConDE, Mozilla Festival, EuroSciPy)
+- [privacy-preserving-data-science](https://github.com/leriomaggio/privacy-preserving-data-science) — full course on privacy-enhancing technologies & PPML (SSI Fellowship output)
+- [syft-heart-disease-tutorial](https://github.com/OpenMined/syft-heart-disease-tutorial) — end-to-end federated learning sample app with PySyft/SyftBox
+
+### 🔧 Tools & data for good
+
+- [notexbook-jupyter-theme](https://github.com/leriomaggio/notexbook-jupyter-theme) — a Jupyter theme for LaTeX lovers and the typographically obsessed 🤓
+- [CovidResponseMap](https://github.com/DynamicGenetics/COVID-19-Community-Response) — interactive community-support mapping, adopted by Public Health Wales during the pandemic
+
+### 🃏 MTG side quests
+
+- [Chaos Orcs Fest](https://chaos-orcs.wtf) & [Bristol Premodern](https://bristolpremodern.co.uk) — tournament websites for the Premodern community, built with Django + PyScript for in-browser deck submission
+- [Forge](https://github.com/Card-Forge/forge) — contributor to the open-source MTG rules engine
+
+**Upstream contributions** — documentation, tutorials, testing across the ML ecosystem:
+`pytorch/pytorch` · `scikit-learn/scikit-learn` · `keras-team/keras` · `lmcinnes/umap` (main docs/testing contributor) · `pyscript/pyscript` (since launch) · `OpenMined/PySyft` · `Project-MONAI`
 
 ---
 
