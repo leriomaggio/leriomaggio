@@ -1,20 +1,19 @@
 <div align="center">
-
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="https://github.com/leriomaggio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3182CE&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Valerio+%F0%9F%A7%99;Data+Science+%C2%B7+Machine+Learning+%C2%B7+Developer+Education;Pythonista+since+2009+%C2%B7+PhD+Computational+Science;I+build+the+things+developers+learn+from" alt="Typing intro: Valerio Maggio — Data Science, Machine Learning, Developer Education" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3182CE&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Valerio+%F0%9F%A7%99;I+build+the+things+developers+learn+from" alt="Typing intro: Valerio Maggio — Data Science, Machine Learning, Developer Education" />
 </a>
 
 <h3>Data Science & Machine Learning · Developer Education · Open Source</h3>
 
 <!-- ============ CONTACT / SOCIAL BADGES ============ -->
+
 <p>
   <a href="https://linkedin.com/in/valeriomaggio"><img src="https://img.shields.io/badge/LinkedIn-valeriomaggio-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://speakerdeck.com/leriomaggio"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
   <a href="https://orcid.org/0000-0003-4824-893X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="mailto:valerio.maggio@gmail.com"><img src="https://img.shields.io/badge/Email-valerio.maggio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
 <img src="https://komarev.com/ghpvc/?username=leriomaggio&style=flat-square&color=3182ce" alt="Profile views" />
 
 </div>
@@ -91,10 +90,28 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 ## 🚀 What I've Built
 
+### 🤖 LLMs & Local AI
+
+- [private-llm-tailnet](https://github.com/leriomaggio/private-llm-tailnet) — chat with a self-hosted LLM from your own devices over a private Tailscale network: MLX model server on Apple silicon, single-file chat client, tailnet-only HTTPS
+- [mistral-concordance](https://github.com/leriomaggio/mistral-concordance) — cross-jurisdictional clinical guideline navigator built on Mistral Workflows with a hybrid local/cloud inference stack — pauses for clinician review on disagreement
+- [mlx-quant-bench](https://github.com/leriomaggio/mlx-quant-bench) — benchmarking LLM quantisation on Apple silicon with MLX
+
 ### 🧠 Deep Learning & ML education
 
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) — intro to deep neural networks with Keras & TensorFlow. One of the first Keras tutorials ever (EuroSciPy 2016) · ⭐ 3k
+- [python-data-science](https://github.com/leriomaggio/python-data-science) — lecture notes & materials for a full Python data science course
 - [pytorch-beautiful-ml-data](https://github.com/leriomaggio/pytorch-beautiful-ml-data) — data patterns & OOP abstractions for PyTorch (PyData Global tutorial)
+- [deep-learning-health-life-sciences](https://github.com/leriomaggio/deep-learning-health-life-sciences) — workshop on deep learning for health & life sciences
+- [deep-unsupervised-learning](https://github.com/leriomaggio/deep-unsupervised-learning) — deep unsupervised learning course
+- [unsupervised-learning-tutorial](https://github.com/leriomaggio/unsupervised-learning-tutorial) — hands-on unsupervised learning tutorial
+- [ml-course](https://github.com/WebValley2022/ml-course) — machine learning course taught at WebValley 2022
+- [numpy-euroscipy](https://github.com/leriomaggio/numpy-euroscipy) — introduction to NumPy (EuroSciPy tutorial)
+
+### 🐍 Python programming education
+
+- [python-in-a-notebook](https://github.com/leriomaggio/python-in-a-notebook) — a whole collection of Jupyter notebooks on Python programming
+- [programming-for-data-science](https://github.com/WebValley2021ReImagined/programming-for-data-science) — programming for data science course (WebValley 2021)
+- [python-programming](https://github.com/webvalley/python-programming) — Python programming @ WebValley 2019
 
 ### 🛡️ Privacy-Preserving ML
 
@@ -111,6 +128,8 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 - [Chaos Orcs Fest](https://chaos-orcs.wtf) & [Bristol Premodern](https://bristolpremodern.co.uk) — tournament websites for the Premodern community, built with Django + PyScript for in-browser deck submission
 - [Forge](https://github.com/Card-Forge/forge) — contributor to the open-source MTG rules engine
+- [deck-recognizer](https://github.com/premodernitalia/deck-recognizer) — PyScript-powered deck recogniser for Premodern tournaments
+- [mtg-collection-analysis](https://github.com/leriomaggio/mtg-collection-analysis) — a data-science journey into my own MTG collection
 
 **Upstream contributions** — documentation, tutorials, testing across the ML ecosystem:
 `pytorch/pytorch` · `scikit-learn/scikit-learn` · `keras-team/keras` · `lmcinnes/umap` (main docs/testing contributor) · `pyscript/pyscript` (since launch) · `OpenMined/PySyft` · `Project-MONAI`
@@ -121,7 +140,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&theme=default&hide_border=true&title_color=3182ce&icon_color=3182ce&include_all_commits=true&count_private=true" alt="Valerio's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&theme=default&hide_border=true&title_color=3182ce&icon_color=3182ce&include_all_commits=true&count_private=true&hide=contribs" alt="Valerio's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&theme=default&hide_border=true&title_color=3182ce&langs_count=8" alt="Top languages" />
 
 <!-- ============ CONTRIBUTION SNAKE ============ -->
