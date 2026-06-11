@@ -95,6 +95,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 - [private-llm-tailnet](https://github.com/leriomaggio/private-llm-tailnet) — chat with a self-hosted LLM from your own devices over a private Tailscale network: MLX model server on Apple silicon, single-file chat client, tailnet-only HTTPS
 - [mistral-concordance](https://github.com/leriomaggio/mistral-concordance) — cross-jurisdictional clinical guideline navigator built on Mistral Workflows with a hybrid local/cloud inference stack — pauses for clinician review on disagreement
 - [mlx-quant-bench](https://github.com/leriomaggio/mlx-quant-bench) — benchmarking LLM quantisation on Apple silicon with MLX
+- [transformers-laptop-bench](https://github.com/leriomaggio/transformers-laptop-bench) — benchmark of open LLM inference cost on consumer hardware (CUDA / Apple silicon / CPU) with Hugging Face Transformers
 
 ### 🧠 Deep Learning & ML education
 
