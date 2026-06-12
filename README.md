@@ -105,6 +105,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 ### 🧠 Deep Learning & ML education
 
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) — intro to deep neural networks with Keras & TensorFlow. One of the first Keras tutorials ever (EuroSciPy 2016) · ⭐ 3k
+- [ml-regression-watch](https://github.com/leriomaggio/ml-regression-watch) — benchmarking, numerical validation, and CI regression detection for ML models across execution configurations
 - [python-data-science](https://github.com/leriomaggio/python-data-science) — lecture notes & materials for a full Python data science course
 - [pytorch-beautiful-ml-data](https://github.com/leriomaggio/pytorch-beautiful-ml-data) — data patterns & OOP abstractions for PyTorch (PyData Global tutorial)
 - [deep-learning-health-life-sciences](https://github.com/leriomaggio/deep-learning-health-life-sciences) — workshop on deep learning for health & life sciences
