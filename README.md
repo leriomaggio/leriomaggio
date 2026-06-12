@@ -95,32 +95,34 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 ## 🚀 What I've Built
 
-### 🤖 LLMs & Local AI
+### 🤖 LLMs & ML
 
 - [private-llm-tailnet](https://github.com/leriomaggio/private-llm-tailnet) — chat with a self-hosted LLM from your own devices over a private Tailscale network: MLX model server on Apple silicon, single-file chat client, tailnet-only HTTPS
 - [mistral-concordance](https://github.com/leriomaggio/mistral-concordance) — cross-jurisdictional clinical guideline navigator built on Mistral Workflows with a hybrid local/cloud inference stack — pauses for clinician review on disagreement
 - [mlx-quant-bench](https://github.com/leriomaggio/mlx-quant-bench) — benchmarking LLM quantisation on Apple silicon with MLX
 - [transformers-laptop-bench](https://github.com/leriomaggio/transformers-laptop-bench) — benchmark of open LLM inference cost on consumer hardware (CUDA / Apple silicon / CPU) with Hugging Face Transformers
+- [ml-regression-watch](https://github.com/leriomaggio/ml-regression-watch) — benchmarking, numerical validation, and CI regression detection for ML models across execution configurations
 
-### 🧠 Deep & Machine Learning
+### 📚 Developer Education
+
+**Python & data science**
+
+- [python-in-a-notebook](https://github.com/leriomaggio/python-in-a-notebook) — a whole collection of Jupyter notebooks on Python programming
+- [python-data-science](https://github.com/leriomaggio/python-data-science) — lecture notes & materials for a full Python data science course
+- [programming-for-data-science](https://github.com/WebValley2021ReImagined/programming-for-data-science) — programming for data science course (WebValley 2021)
+- [python-programming](https://github.com/webvalley/python-programming) — Python programming @ WebValley 2019
+- [numpy-euroscipy](https://github.com/leriomaggio/numpy-euroscipy) — introduction to NumPy (EuroSciPy tutorial)
+
+**ML & deep learning**
 
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) — intro to deep neural networks with Keras & TensorFlow. One of the first Keras tutorials ever (EuroSciPy 2016) · ⭐ 3k
-- [ml-regression-watch](https://github.com/leriomaggio/ml-regression-watch) — benchmarking, numerical validation, and CI regression detection for ML models across execution configurations
-- [python-data-science](https://github.com/leriomaggio/python-data-science) — lecture notes & materials for a full Python data science course
 - [pytorch-beautiful-ml-data](https://github.com/leriomaggio/pytorch-beautiful-ml-data) — data patterns & OOP abstractions for PyTorch (PyData Global tutorial)
 - [deep-learning-health-life-sciences](https://github.com/leriomaggio/deep-learning-health-life-sciences) — workshop on deep learning for health & life sciences
 - [deep-unsupervised-learning](https://github.com/leriomaggio/deep-unsupervised-learning) — deep unsupervised learning course
 - [unsupervised-learning-tutorial](https://github.com/leriomaggio/unsupervised-learning-tutorial) — hands-on unsupervised learning tutorial
 - [ml-course](https://github.com/WebValley2022/ml-course) — machine learning course taught at WebValley 2022
-- [numpy-euroscipy](https://github.com/leriomaggio/numpy-euroscipy) — introduction to NumPy (EuroSciPy tutorial)
 
-### 🐍 Python programming education
-
-- [python-in-a-notebook](https://github.com/leriomaggio/python-in-a-notebook) — a whole collection of Jupyter notebooks on Python programming
-- [programming-for-data-science](https://github.com/WebValley2021ReImagined/programming-for-data-science) — programming for data science course (WebValley 2021)
-- [python-programming](https://github.com/webvalley/python-programming) — Python programming @ WebValley 2019
-
-### 🛡️ Privacy-Preserving ML
+**Privacy-preserving ML**
 
 - [ppml-tutorial](https://github.com/leriomaggio/ppml-tutorial) — hands-on privacy-preserving machine learning (SciPy, PyConDE, Mozilla Festival, EuroSciPy)
 - [privacy-preserving-data-science](https://github.com/leriomaggio/privacy-preserving-data-science) — full course on privacy-enhancing technologies & PPML (SSI Fellowship output)
