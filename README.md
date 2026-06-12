@@ -101,7 +101,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 - [mistral-concordance](https://github.com/leriomaggio/mistral-concordance) — cross-jurisdictional clinical guideline navigator built on Mistral Workflows with a hybrid local/cloud inference stack — pauses for clinician review on disagreement
 - [mlx-quant-bench](https://github.com/leriomaggio/mlx-quant-bench) — benchmarking LLM quantisation on Apple silicon with MLX
 - [transformers-laptop-bench](https://github.com/leriomaggio/transformers-laptop-bench) — benchmark of open LLM inference cost on consumer hardware (CUDA / Apple silicon / CPU) with Hugging Face Transformers
-- [ml-regression-watch](https://github.com/leriomaggio/ml-regression-watch) — benchmarking, numerical validation, and CI regression detection for ML models across execution configurations
+- [ml-regression-watch](https://github.com/leriomaggio/ml-regression-watch) — benchmarking, numerical validation, and CI regression detection for ML models across execution configurations · 🆕 now with per-layer analysis on DistilBERT
 
 ### 📚 Developer Education
 
