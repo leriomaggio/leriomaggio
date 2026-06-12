@@ -130,6 +130,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 ### 🔧 Tools & data for good
 
+- [The Learning Machine](https://github.com/DynamicGenetics/The-Learning-Machine) — interactive human-in-the-loop online machine learning that lets the public teach a machine to recognise human emotion — exhibited at the [We The Curious](https://www.wethecurious.org) science museum in Bristol
 - [notexbook-jupyter-theme](https://github.com/leriomaggio/notexbook-jupyter-theme) — a Jupyter theme for LaTeX lovers and the typographically obsessed 🤓
 - [CovidResponseMap](https://github.com/DynamicGenetics/COVID-19-Community-Response) — interactive community-support mapping, adopted by Public Health Wales during the pandemic
 
