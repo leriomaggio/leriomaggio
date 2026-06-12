@@ -102,7 +102,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 - [mlx-quant-bench](https://github.com/leriomaggio/mlx-quant-bench) — benchmarking LLM quantisation on Apple silicon with MLX
 - [transformers-laptop-bench](https://github.com/leriomaggio/transformers-laptop-bench) — benchmark of open LLM inference cost on consumer hardware (CUDA / Apple silicon / CPU) with Hugging Face Transformers
 
-### 🧠 Deep Learning & ML education
+### 🧠 Deep & Machine Learning
 
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) — intro to deep neural networks with Keras & TensorFlow. One of the first Keras tutorials ever (EuroSciPy 2016) · ⭐ 3k
 - [ml-regression-watch](https://github.com/leriomaggio/ml-regression-watch) — benchmarking, numerical validation, and CI regression detection for ML models across execution configurations
