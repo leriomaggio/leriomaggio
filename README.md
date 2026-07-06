@@ -151,15 +151,6 @@ Speaking and teaching are how I give back to the community — and honestly, how
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&hide_border=true&bg_color=30,0F172A,4C1D95&title_color=ffffff&text_color=E2E8F0&icon_color=FFD43B&include_all_commits=true&count_private=true&hide=contribs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leriomaggio&show_icons=true&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&icon_color=FFD43B&include_all_commits=true&count_private=true&hide=contribs" alt="Valerio's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&hide_border=true&bg_color=30,0F172A,4C1D95&title_color=ffffff&text_color=E2E8F0&langs_count=8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leriomaggio&layout=compact&hide_border=true&bg_color=30,3182CE,8B5CF6&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top languages" />
-</picture>
-
 <!-- ============ CONTRIBUTION SNAKE ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leriomaggio/leriomaggio/output/github-snake-dark.svg" />
