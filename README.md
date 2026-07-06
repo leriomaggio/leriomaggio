@@ -103,6 +103,7 @@ Speaking and teaching are how I give back to the community — and honestly, how
 - [transformers-laptop-bench](https://github.com/leriomaggio/transformers-laptop-bench) — benchmark of open LLM inference cost on consumer hardware (CUDA / Apple silicon / CPU) with Hugging Face Transformers
 - [ml-regression-watch](https://github.com/leriomaggio/ml-regression-watch) — benchmarking, numerical validation, and CI regression detection for ML models across execution configurations · 🆕 now with per-layer analysis on DistilBERT
 - [inductor-codegen-probe](https://github.com/leriomaggio/inductor-codegen-probe) — a minimal probe into what `torch.compile`'s Inductor backend generates per device (CPU, CUDA, MPS, XPU): Triton, Metal, vectorised C++, or a library dispatch
+- [vllm-inference-lab](https://github.com/leriomaggio/vllm-inference-lab) — a matmul → attention → PagedAttention → vLLM correctness & numerics lab: one operator, many schedules, correctness by tolerance · 🚧 work in progress
 
 ### 📚 Developer Education
 
